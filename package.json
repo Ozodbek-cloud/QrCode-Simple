@@ -8,7 +8,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "nodemon server.js"
+    "test": "node server.js"
   },
   "keywords": [],
   "author": "",
